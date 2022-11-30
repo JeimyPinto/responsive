@@ -1,0 +1,5 @@
+LISTADO DE REQUERIMIENTOS
+
+-Corregir visibilidad del logo
+-Cambiar paleta de colores
+-Aumentar tamañano de fuente
