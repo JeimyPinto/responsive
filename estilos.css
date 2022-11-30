@@ -23,9 +23,9 @@ header {
     align-items: center;
 }
 
-.logo.img {
-    height: 50px;
-    margin-right: 10px;
+.logo img {
+    height: 100px;
+    margin-right: 20px;
 }
 
 nav a {
@@ -46,9 +46,4 @@ nav a:hover {
         padding: 10px 0px;
     }
 
-}
-
-#imagen {
-    width: 150px;
-    height: 150px;
 }
